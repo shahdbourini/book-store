@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "redux": "^4.2.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
